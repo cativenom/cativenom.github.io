@@ -7,7 +7,7 @@ excerpt:
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl:
-paperurl: 'https://www.duttlab.pitt.edu/'
+laburl: 'https://www.duttlab.pitt.edu/'
 bibtexurl: 
 citation: 
 ---
