@@ -9,31 +9,8 @@ redirect_from:
 
 
 
-A data-driven personal website
+About me
 ======
 
 
 
-Getting started
-======
-
-
-Site-wide configuration
-------
-
-Create content & metadata
-------
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
