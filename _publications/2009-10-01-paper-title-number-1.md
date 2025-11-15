@@ -4,11 +4,9 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 
-date: 2009-10-01
-venue: 'Journal 1'
 slidesurl:
 laburl: 'https://www.duttlab.pitt.edu/'
 bibtexurl: 
 citation: 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+I started in working in Duttlab in September of 2025 and will continue working to at least the end of the spring semester. I have repaired a Turbovac 450 turbomolcular pump and I am currently working on intergrating it into the lab vaccum system. To do this I am modeling the pump lines in ansys fluent. The goal is to put the turbopump in the pump room as compared to next to the optics table where it can induce viberations. In the spring semester, I plan on finishing the pump system to work with the cyrostat and running some simple laser experiements on it. https://www.duttlab.pitt.edu/
