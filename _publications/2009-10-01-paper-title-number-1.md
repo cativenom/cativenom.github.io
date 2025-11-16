@@ -5,7 +5,6 @@ category: manuscripts
 permalink: 
 excerpt: 
 slidesurl:
-laburl: 'https://www.duttlab.pitt.edu/'
 bibtexurl: 
 citation: 
 ---
