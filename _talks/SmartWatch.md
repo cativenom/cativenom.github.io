@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Smart Watch"
 collection: talks
 type: "Project"
 permalink: /projects/SmartWatch
